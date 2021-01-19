@@ -358,6 +358,4 @@ test('table bound error', function (t) {
             '<p class="error_msg">validation error after field</p>'
         );
     });
-
-    t.end();
 });
